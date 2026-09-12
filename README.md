@@ -1,7 +1,10 @@
 # Books
 Book - Biostatistics with SAS - From Data to Decisions in Clinical Research
+
 This book covers basic of biostatistics through the Statistical Analysis System (SAS®) which is widely used in Clinical Trial Industry. The book guides the readers on which statistical method is appropriate, and how to implement it correctly inside the specific, standardized, heavily regulated data ecosystem that clinical trials actually run on.
+
 Statistical analysis and clinical data programming are fundamentally interdependent disciplines. A rigorously derived statistical model that cannot be successfully implemented, validated, and traced back to its originating data within a standard Study Data Tabulation Model (SDTM), Analysis Data Model (ADaM), and Tables, Listings, and Figures (TLF) pipeline remains, in practice, incomplete. Conversely, a programmer fluent in Base SAS who lacks comprehension of the underlying statistical rationale risks producing incorrect outputs with unwarranted precision. This volume proceeds from the premise that these two competencies must be unified within a single pedagogical framework, reflecting the integrated nature of professional practice.
+
 Intended Audience
 This text addresses three primary readerships:
 Early-Career Biostatisticians: Individuals seeking a cohesive pathway connecting foundational statistical theory to industry-specific data standards and reporting frameworks.
