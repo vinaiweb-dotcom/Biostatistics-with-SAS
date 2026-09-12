@@ -1,5 +1,5 @@
 # Books
-Book - Biostatistics with SAS - From Data to Decisions in Clinical Research
+**Biostatistics with SAS - From Data to Decisions in Clinical Research**
 
 This book covers basic of biostatistics through the Statistical Analysis System (SAS®) which is widely used in Clinical Trial Industry. The book guides the readers on which statistical method is appropriate, and how to implement it correctly inside the specific, standardized, heavily regulated data ecosystem that clinical trials actually run on.
 
